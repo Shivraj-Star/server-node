@@ -1,0 +1,37 @@
+{
+  "name": "shiv-star",
+  "version": "1.0.0",
+  "description": "test node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "mongo"
+  ],
+  "author": "balwant padwal",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "cookie-parser": "^1.4.1",
+    "errorhandler": "^1.4.3",
+    "express": "^4.13.4",
+    "express-session": "^1.13.0",
+    "joi": "^8.0.1",
+    "lodash": "^4.6.1",
+    "method-override": "^2.3.5",
+    "mongoose": "^4.4.10",
+    "morgan": "^1.6.1",
+    "nodemailer": "^0.7.1",
+    "serve-favicon": "^2.3.0",
+    "socket.io": "^1.4.5",
+    "passport" : "~0.1.17",
+   "passport-local" : "~0.1.6",
+   "passport-facebook" : "~1.0.2",
+   "passport-twitter" : "~1.0.2",
+   "passport-google-oauth" : "~0.1.5",
+   "connect-flash" : "~0.1.1",
+   "bcrypt-nodejs" : "latest"
+  }
+}
